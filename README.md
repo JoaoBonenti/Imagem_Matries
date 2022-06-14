@@ -11,7 +11,6 @@
 <br> Exibir ("Insira a cor do elemento M[%d][%d]", linha+1, coluna+1)
 <br> <b> Fim Enquanto </b>
 <br> <b> Fim Enquanto </b>
-<br>
 <br> Exibir ("A matriz ficou: ")
 <br> <b> Enquanto </b> linha < 16 <b> Faça </b>
 <br> <b> Enquanto </b> coluna < 16 <b> Faça </b> 
